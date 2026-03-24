@@ -1,7 +1,7 @@
 # healthcare-kpi-dashboard
 A Power BI dashboard analyzing healthcare KPIs including patient flow, wait times, appointment volume, and operational efficiency. Built using synthetic clinical data to demonstrate healthcare analytics and data storytelling.
 
-**Project Overview**
+# Project Overview
 This project demonstrates my ability to transform clinical and operational data into clear, accessible insights for healthcare leadership. The dashboard highlights key performance indicators (KPIs) related to patient flow, appointment volume, wait times, and operational efficiency.
 
 The goal was to create a communication‑friendly dashboard that supports decision‑making and helps clinical teams understand performance trends at a glance.
@@ -28,7 +28,9 @@ The goal was to create a communication‑friendly dashboard that supports decisi
 -Operational bottleneck identification
 -Clinician utilization metrics
 
-**Repository Structure**
+## Repository Structure
+
+```
 healthcare-kpi-dashboard/
 │
 ├── data/
@@ -41,6 +43,8 @@ healthcare-kpi-dashboard/
 │   └── dashboard_screenshot.png
 │
 └── README.md
+```
+
 
 Approach
 **1. Data Cleaning & Validation**
