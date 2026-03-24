@@ -46,7 +46,8 @@ healthcare-kpi-dashboard/
 ```
 
 
-Approach
+# Approach
+
 **1. Data Cleaning & Validation**
 -Removed duplicates and inconsistent entries
 -Standardized appointment types and clinician names
