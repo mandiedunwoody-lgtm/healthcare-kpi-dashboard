@@ -28,6 +28,11 @@ The goal was to create a communication‑friendly dashboard that supports decisi
 -Operational bottleneck identification
 -Clinician utilization metrics
 
+## Dashboard Preview
+
+![Healthcare KPI Dashboard](visuals/dashboard_overview.png)
+
+
 ## Repository Structure
 
 ```
