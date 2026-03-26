@@ -32,6 +32,9 @@ The goal was to create a communication‑friendly dashboard that supports decisi
 
 ![Healthcare KPI Dashboard](visuals/Screenshot%202026-03-26%20135951.png)
 
+**Dashboard Summary**
+
+This dashboard provides a clear, accessible view of key healthcare performance indicators using synthetic clinical data. It highlights patient flow, wait times, readmission patterns, and triage distribution to help clinical and operational teams quickly identify trends and bottlenecks. The visual layout is designed for communication clarity, enabling leadership to understand performance at a glance and support data‑informed decisions around staffing, scheduling, and resource allocation.
 
 ## Repository Structure
 
