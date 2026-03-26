@@ -30,7 +30,7 @@ The goal was to create a communication‑friendly dashboard that supports decisi
 
 ## Dashboard Preview
 
-![Healthcare KPI Dashboard](visuals/dashboard_overview.png)
+![Healthcare KPI Dashboard](visuals/Screenshot%202026-03-26%20135951.png)
 
 
 ## Repository Structure
